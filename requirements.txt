@@ -1,0 +1,11 @@
+Cython
+torch
+torchvision
+h5py
+sklearn
+matplotlib
+jupyter
+numpy
+POT
+pandas
+qgrid
