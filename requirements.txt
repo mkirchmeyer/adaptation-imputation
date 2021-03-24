@@ -9,3 +9,4 @@ numpy
 POT
 pandas
 qgrid
+requests
