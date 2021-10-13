@@ -1,5 +1,5 @@
 # Unsupervised Domain Adaptation with non-stochastic missing data
-This repository contains the code of the following paper "Unsupervised Domain Adaptation with non-stochastic missing data"
+This repository contains the code of the following paper ["Unsupervised Domain Adaptation with non-stochastic missing data"][3] accepted at ECML2021 journal track Data Mining and Knowledge Discovery.
 
 # Dependencies
 In order to run, the code requires the following Python modules specified in `requirements.txt`
@@ -55,5 +55,16 @@ If necessary follow steps below to regenerate the data.
     * `rm total_source_shuffled.txt total_source.txt`
 * Training script is then ready to be run
 
+# Citation
+@article{Kirchmeyer2021,
+   author = {Kirchmeyer, Matthieu and Gallinari, Patrick and Rakotomamonjy, Alain and Mantrach, Amin},
+   doi = {10.1007/s10618-021-00775-3},
+   isbn = {1573-756X},
+   journal = {Data Mining and Knowledge Discovery},
+   title = {Unsupervised domain adaptation with non-stochastic missing data},
+   url = {https://doi.org/10.1007/s10618-021-00775-3 }, 
+   year = {2021}}
+
 [1]: http://labs.criteo.com/2014/02/kaggle-display-advertising-challenge-dataset/
 [2]: https://www.dropbox.com/sh/ino8kcgr9x5jm0r/AACI3wynfb96wrJNTb39y_gga?dl=0
+[3]: https://rdcu.be/czoZ5
